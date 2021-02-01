@@ -19,5 +19,5 @@
 
 
 [instagram]: https://www.instagram.com/dgndmremirhan/?hl=tr
-[linkedin]: https://linkedin.com/in/emirhan-doğandemir
+[linkedin]: https://www.linkedin.com/in/emirhan-doğandemir-2294b0201/
 
