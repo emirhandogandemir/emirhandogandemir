@@ -9,7 +9,7 @@
 ![Emirhan's github stats](https://github-readme-stats.vercel.app/api?username=dgndmrEmirhan&show_icons=true&theme=dark)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgndmrEmirhan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
