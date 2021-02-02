@@ -1,6 +1,6 @@
 ### Hi,I'm Emirhan
 
-## I'm a student 
+## I'm a student :man_technologist: :computer:
 
 
 - 🌱 I’m currently learning Java,C#,Js,TypeScript,
