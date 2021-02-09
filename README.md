@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Java,C#,Js,TypeScript,
-- 💬 Ask me about Java
+
 
 
 
