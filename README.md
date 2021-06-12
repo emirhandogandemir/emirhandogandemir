@@ -26,3 +26,9 @@
 [linkedin]: https://www.linkedin.com/in/emirhan-doğandemir-2294b0201/
 
 
+## 📊 GitHub Stats
+
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkayan20&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </p>
+
