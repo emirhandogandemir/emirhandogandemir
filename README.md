@@ -1,8 +1,9 @@
  <h1 align="center"> 𝐇𝐢,𝐈'𝐦 Emirhan Doğandemir </h1>
-
+<details>
 <summary> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫</summary>
 
 👔 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-doğandemir-2294b0201/) 
+</details>
 
 ## 🛠 Technologies & Tools 
 
