@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
 
-
+ <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgndmrEmirhan&theme=tokyonight&layout=compact">
 
 
 
