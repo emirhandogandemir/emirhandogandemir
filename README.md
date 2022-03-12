@@ -3,8 +3,6 @@
 <h3 align="center">A passionate junior Software || DevOps Engineer from Turkey!</h3>
 - 🌱 I’m currently learning **K8s - Microservices - Go**
 
-- 📝 I regularly write articles on [https://medium.com/@emirhandgndmr51](https://medium.com/@emirhandgndmr51)
-
 - 💬 Ask me about **Java - DevOps**
 
 - 📫 How to reach me **emirhandgndmr51@gmail.com**
