@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-<h3 align="center">A passionate junior Software || DevOps Engineer from Turkey!</h3>
+<h3 align="center">A passionate junior DevOps || Platform Engineer from Turkey!</h3>
 - 🌱 I’m currently learning **K8s - Microservices - Go**
 
 - 💬 Ask me about **Java - DevOps**
