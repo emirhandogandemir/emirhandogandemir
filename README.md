@@ -19,6 +19,7 @@
 <h3 align="left">🎖 Certificates</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/cka/color/kubernetes-cka-color.png" alt="https://www.credly.com/badges/61709b56-855f-41ce-97a2-80668742b1fa/public_url" width="100" height="100"/>
+ <img src="https://raw.githubusercontent.com/cncf/artwork/master/other/kss/color/kubernetes-security-specialist-color.png" alt="https://www.credly.com/badges/e2ba7704-b6ba-46e0-914a-b3bbb3f58cc6/public_url" width="100" height="100"/>
 </p>
 
 
